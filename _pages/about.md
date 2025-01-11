@@ -18,5 +18,5 @@ redirect_from:
 His research endeavors have resulted in publications in esteemed journals and conference proceedings. He actively contributes to the research community by serving as a reviewer for several prominent journals.
 Ali Ahmad possesses analytical and problem-solving skills, honed through years of teaching and research experience as a Teaching and Research Assistant. He is eager to contribute his expertise to impactful research projects and collaborate with fellow researchers to push the boundaries of knowledge in the field of computer vision.
 
-$${\color{red}I am seeking a PhD position to pursue a doctorate in my research area or related fields.}$$
+$${\color{red}I  am  seeking  a  PhD  position  to  pursue  a  doctorate  in  my  research  area  or  related  fields.}$$
 
